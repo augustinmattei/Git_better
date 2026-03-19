@@ -5,5 +5,6 @@ If you want to extend your knowledge and practice about branch, here are some ex
 you can:
 - Create a new branch -> implement a new function -> merge it in main -> delete the old branch.
 - Add description and tags to your commits
+- Checkout to an ancient commit and bring it to HEAD
 - Create a Pull Request
 - Try git hooks
