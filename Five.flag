@@ -1,0 +1,9 @@
+Congratualtion. I've nothing to taught you anymore (at least in this CTF).
+
+If you want to extend your knowledge and practice about branch, here are some exrecises, but there will be no more flag to collect.
+
+you can:
+- Create a new branch -> implement a new function -> merge it in main -> delete the old branch.
+- Add description and tags to your commits
+- Create a Pull Request
+- Try git hooks
