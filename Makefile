@@ -1,4 +1,5 @@
-SRC	=	src/main.c
+SRC	=	src/main.c	\
+		src/next.c
 
 OBJ	=	$(SRC:.c=.o)
 
